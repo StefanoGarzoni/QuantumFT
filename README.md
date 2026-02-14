@@ -1,4 +1,4 @@
-# QuantumBeats – Quantum Fourier Transform Analysis
+# QuantumFT – Quantum Fourier Transform Analysis
 This repository contains an in-depth study and implementation of the Quantum Fourier Transform (QFT), developed in Python as part of research conducted during the Quantum Information Processing course.
 
 -------------------------------------------------
